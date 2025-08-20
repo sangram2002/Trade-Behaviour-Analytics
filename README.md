@@ -1,5 +1,5 @@
 # Trade-Behaviour-Analytics
-Analysis of Bitcoin market sentiment (Fear/Greed Index) and Hyperliquid trader performance, including EDA, statistical tests, and predictive modeling to uncover trading patterns and strategies.
+Analyzing cryptocurrency trading historical data and market sentiment (Fear/Greed Index) to understand trading behavior, predict trade direction, and evaluate account performance using data preprocessing, EDA, and machine learning models (XGBoost, Logistic Regression).
 # Crypto Trading Analysis and Prediction
 
 This repository contains a Jupyter notebook (`.ipynb` file) that performs an in-depth analysis of cryptocurrency trading historical data and the Fear and Greed Index. The project aims to understand trading behavior, explore the relationship between market sentiment and trading outcomes, evaluate account performance, and build machine learning models to predict trade direction.
